@@ -1,6 +1,7 @@
 AI Based Multilingual Audio Recording and Transcription Application
 
 Overview
+
 The project is a multilingual audio recording and transcription platform that integrates with a dedicated recorder device and supports multiple languages, including English, French, Spanish, German, and Italian. It offers users a seamless experience to record, manage, and transcribe audio files, with options to generate summaries or bullet points. Key features include a trial period, direct access for recorder buyers, subscription-based services, product purchase links, and a notification system to re-engage users. An admin dashboard ensures efficient management of users, subscriptions, notifications, and database integration.
 
 Goals
